@@ -2,9 +2,9 @@ package agendatelefonica.src.main;
 
 import infraestructura.configuraciones.ContainerDependencia;
 
-public final class Main {
+public final class main {
 
-    private Main() {
+    private main() {
     }
 
     public static void main(final String[] args) {

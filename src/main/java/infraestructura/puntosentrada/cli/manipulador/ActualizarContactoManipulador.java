@@ -42,8 +42,8 @@ public final class ActualizarContactoManipulador
                 new ActualizarContactoComando(
                         id,
                         nombre,
-                        telefono,
-                        correo
+                        correo,
+                        telefono
                 );
 
         try {
